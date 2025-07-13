@@ -1,63 +1,81 @@
-<h1 align="center">✨ Raghav Ramani ✨</h1>
+<h1 align="center">👋 Hi, I'm Raghav Ramani!</h1>
 
 <p align="center">
-  💻 Machine Learning Learner • 📊 Data Analytics Explorer • 🤖 AI Aspirant
+  Aspiring AI/ML Engineer | Data Analyst | Frontend Developer | Learning DSA in Java
 </p>
 
 ---
 
-## 🚀 About Me
+## 💫 About Me  
 
-- 🧑‍💻 Learning Machine Learning since **Feb 2025**  
-- 🔄 Currently working on:
-  - 🤖 Deep Learning basics (ANN, CNN)  
-  - ☕ Java for DSA (Foundations & Problem-Solving)  
-  - 🗄️ SQL & Data Analytics  
-- 🎯 Long-term Focus:  
-  - MLOps Deployment  
-  - Self-Supervised Learning  
-  - Building Reliable AI Systems  
+- 🎓 B.Tech CSE Student  
+- 🤖 Passionate about Artificial Intelligence and Machine Learning  
+- 📊 Evolving as a Data Analyst and Frontend Developer  
+- 🛠️ Constant Learner | Growth Mindset | Discipline over Motivation  
 
 ---
 
-## ⚡ Skills & Learning Progress 
+## 🛠️ Skills & Proficiency Levels  
 
-| 🚀 Skill               | Progress Level |
-|-----------------------|----------------|
-| 🤖 Machine Learning    | 70–80%          |
-| 🧠 Deep Learning       | 30–40%          |
-| 📊 Data Analytics      | 50–60%          |
-| 🧩 Analytical Skills   | 50–60%          |
-| ☕ Java (DSA)          | 20–30%          |
-| 🗄️ SQL                  | 20–30%          |
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Intermediate-blue?logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Machine%20Learning-Intermediate-orange?logo=scikitlearn&logoColor=white">
+  <img src="https://img.shields.io/badge/Deep%20Learning-Beginner-9cf?logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-Beginner-red?logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Frontend-Intermediate-green?logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-Intermediate-lightgrey?logo=mysql&logoColor=white">
+</p>
 
-> 🎯 **Note:** Still improving and building consistency. Not claiming mastery.
-
----
-
-## ⚙️ Tools & Technologies I Use
-
-- 🐍 Python (Main ML Language)  
-- ☕ Java (Learning DSA)  
-- 🗄️ SQL (Learning Queries & Analytics)  
-- 📊 Pandas, Matplotlib, Scikit-learn (For ML & Data Work)  
-- ⚙️ Flask (For Backend Basics)  
-- 🐙 Git & GitHub (Version Control)
+| Skill                       | Proficiency Level | Tools & Tech                     |
+|----------------------------|-------------------|---------------------------------|
+| **Machine Learning**       | Intermediate      | Scikit-learn, Pandas, Numpy     |
+| **Deep Learning**          | Beginner          | TensorFlow, Keras               |
+| **Data Analysis**          | Intermediate      | SQL, Power BI, Excel            |
+| **Data Visualization**     | Beginner          | Matplotlib, Seaborn             |
+| **Python Programming**     | Intermediate      | Python 3.x                      |
+| **Java (for DSA)**         | Beginner → Growing| Java SE, Java Collections       |
+| **Web Development**        | Intermediate      | HTML, CSS, JavaScript, React    |
+| **Version Control**        | Intermediate      | Git, GitHub                     |
 
 ---
 
-## 📈 My Current Approach
+## 📊 GitHub Stats  
 
-- ✅ Focused on learning → building → improving loop.  
-- ✅ Real-world mini-projects, not rushing large ones.  
-- ✅ Balancing college, fitness, and ML work honestly.
-
----
-
-## 📫 Connect with Me
-
-- 🌐 Kaggle: [kaggle.com/raghavramani3232](https://www.kaggle.com/raghavramani3232)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raghavramani3232&show_icons=true&theme=radical" alt="Raghav's GitHub Stats">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavramani3232&layout=compact&theme=radical" alt="Top Languages">
+</p>
 
 ---
 
-<p align="center">💡 _Consistency First. Results Follow._</p>
+## 📂 Projects  
+
+- **Medical Symptom Checker Chatbot** — AI-powered chatbot with frontend/backend  
+- **Sonar Rock vs Mine Classifier** — ML Model using Logistic Regression  
+- **Titanic Survival Prediction** — ML Classification Project  
+
+---
+
+## 📬 Connect with Me  
+
+<p align="center">
+  <a href="https://www.kaggle.com/raghavramani3232">
+    <img src="https://img.shields.io/badge/Kaggle-Raghav-blue?logo=kaggle&logoColor=white">
+  </a>
+</p>
+
+---
+
+## 🧑‍💻 Current Focus  
+
+- 📚 Completing Java DSA  
+- ⚙️ Advancing in Machine Learning  
+- 📈 Data Analytics & Visualization  
+- 🏋️ Discipline & Daily Consistency  
+
+---
+
+<p align="center">
+  <em>“Consistency is what transforms average into excellence.”</em>
+</p>
