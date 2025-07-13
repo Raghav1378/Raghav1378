@@ -29,15 +29,7 @@
 
 ---
 
-## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raghavramani3232&show_icons=true&theme=radical&hide=issues&count_private=true" alt="Raghav's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavramani3232&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
 
 ## 📂 Projects  
 
