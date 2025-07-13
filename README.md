@@ -20,7 +20,7 @@
 
 ---
 
-## ⚡ Skills & Learning Progress (Honest)
+## ⚡ Skills & Learning Progress 
 
 | 🚀 Skill               | Progress Level |
 |-----------------------|----------------|
