@@ -15,34 +15,26 @@
 
 ---
 
-## 🛠️ Skills & Proficiency Levels  
+## 🛠️ Skills & Proficiency  
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-Intermediate-blue?logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Machine%20Learning-Intermediate-orange?logo=scikitlearn&logoColor=white">
-  <img src="https://img.shields.io/badge/Deep%20Learning-Beginner-9cf?logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-Beginner-red?logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-Intermediate-lightgrey?logo=mysql&logoColor=white">
-</p>
-
-| Skill                       | Proficiency Level | Tools & Tech                     |
-|----------------------------|-------------------|---------------------------------|
-| **Machine Learning**       | Intermediate      | Scikit-learn, Pandas, Numpy     |
-| **Deep Learning**          | Beginner          | TensorFlow, Keras               |
-| **Data Analysis**          | Intermediate      | SQL, Power BI, Excel            |
-| **Data Visualization**     | Beginner          | Matplotlib, Seaborn             |
-| **Python Programming**     | Intermediate      | Python 3.x                      |
-| **Java (for DSA)**         | Beginner → Growing| Java SE, Java Collections       |
-| **Version Control**        | Intermediate      | Git, GitHub                     |
+| Skill                    | Level              | Stars ⭐ | Progress Bar                       |
+|-------------------------|-------------------|---------|-----------------------------------|
+| Python                  | Intermediate      | ⭐⭐⭐⭐    | ![](https://img.shields.io/badge/-80%25-blue) |
+| Machine Learning        | Intermediate      | ⭐⭐⭐⭐    | ![](https://img.shields.io/badge/-75%25-orange) |
+| Deep Learning           | Beginner          | ⭐⭐      | ![](https://img.shields.io/badge/-30%25-yellow) |
+| Data Analysis           | Intermediate      | ⭐⭐⭐⭐    | ![](https://img.shields.io/badge/-75%25-lightgrey) |
+| Data Visualization      | Beginner          | ⭐⭐      | ![](https://img.shields.io/badge/-35%25-green) |
+| Java (for DSA)          | Growing Beginner  | ⭐⭐      | ![](https://img.shields.io/badge/-40%25-red) |
+| Version Control (Git)   | Intermediate      | ⭐⭐⭐⭐    | ![](https://img.shields.io/badge/-70%25-purple) |
 
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raghavramani3232&show_icons=true&theme=radical" alt="Raghav's GitHub Stats">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavramani3232&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=raghavramani3232&show_icons=true&theme=radical&hide=issues&count_private=true" alt="Raghav's GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavramani3232&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
