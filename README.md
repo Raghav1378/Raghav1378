@@ -1,58 +1,63 @@
-# 👋 Hi, I'm Raghav Ramani
+<h1 align="center">✨ Raghav Ramani ✨</h1>
 
-🎯 Focused on AI, ML, and Data Analytics  
-💡 Learning Deep Learning, Java DSA, and MLOps  
-📊 Aspiring Data Analyst & Machine Learning Engineer  
+<p align="center">
+  💻 Machine Learning Learner • 📊 Data Analytics Explorer • 🤖 AI Aspirant
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- Machine Learning Enthusiast since Feb 2025  
-- Building projects in ML, DL, and AI-powered systems  
-- Currently learning:
-  - Deep Learning (ANN, CNN basics)
-  - Java DSA (Targeting Interview Preparation)
-  - SQL & Data Visualization
-- Exploring MLOps, Self-Supervised Learning, and AI Deployment
+- 🧑‍💻 Learning Machine Learning since **Feb 2025**  
+- 🔄 Currently working on:
+  - 🤖 Deep Learning basics (ANN, CNN)  
+  - ☕ Java for DSA (Foundations & Problem-Solving)  
+  - 🗄️ SQL & Data Analytics  
+- 🎯 Long-term Focus:  
+  - MLOps Deployment  
+  - Self-Supervised Learning  
+  - Building Reliable AI Systems  
 
 ---
 
-## 📊 Skills & Knowledge Level
+## ⚡ Skills & Learning Progress (Honest)
 
-| Skill                | Mastery Level  |
-|---------------------|----------------|
-| Machine Learning    | Intermediate (80%) |
-| Deep Learning       | Beginner (40%)     |
-| Data Analytics      | Intermediate (60%) |
-| Analytical Skills   | Intermediate (60%) |
-| Java (DSA)          | Beginner (30%)     |
-| SQL                 | Beginner (30%)     |
+| 🚀 Skill               | Progress Level |
+|-----------------------|----------------|
+| 🤖 Machine Learning    | 70–80%          |
+| 🧠 Deep Learning       | 30–40%          |
+| 📊 Data Analytics      | 50–60%          |
+| 🧩 Analytical Skills   | 50–60%          |
+| ☕ Java (DSA)          | 20–30%          |
+| 🗄️ SQL                  | 20–30%          |
 
----
-
-## ⚙️ Tech Stack & Tools
-
-- **Languages**: Python, Java, SQL
-- **Libraries**: Pandas, NumPy, Matplotlib, Scikit-Learn
-- **Frameworks**: Flask
-- **Other**: Git, GitHub, Kaggle
+> 🎯 **Note:** Still improving and building consistency. Not claiming mastery.
 
 ---
 
-## 📌 Projects I'm Working On
+## ⚙️ Tools & Technologies I Use
 
-- ✅ Medical Symptom Checker Chatbot (AI + Flask Backend)  
-- ✅ Autonomous Surveillance System using YOLO (Python, OpenCV)  
-- ✅ Sonar Data Classification (Logistic Regression, ML Pipeline)  
-- 🔄 Java DSA Roadmap (Arrays → Trees → DP, ongoing)
+- 🐍 Python (Main ML Language)  
+- ☕ Java (Learning DSA)  
+- 🗄️ SQL (Learning Queries & Analytics)  
+- 📊 Pandas, Matplotlib, Scikit-learn (For ML & Data Work)  
+- ⚙️ Flask (For Backend Basics)  
+- 🐙 Git & GitHub (Version Control)
+
+---
+
+## 📈 My Current Approach
+
+- ✅ Focused on learning → building → improving loop.  
+- ✅ Real-world mini-projects, not rushing large ones.  
+- ✅ Balancing college, fitness, and ML work honestly.
 
 ---
 
 ## 📫 Connect with Me
 
-- Kaggle: [kaggle.com/raghavramani3232](https://www.kaggle.com/raghavramani3232)
+- 🌐 Kaggle: [kaggle.com/raghavramani3232](https://www.kaggle.com/raghavramani3232)
 
 ---
 
-_Work in Progress. Always Learning. Always Building._
+<p align="center">💡 _Consistency First. Results Follow._</p>
