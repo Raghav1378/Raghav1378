@@ -53,7 +53,7 @@
 
 ## 📊 GitHub Stats
 
-![Raghav's GitHub stats](https://github-readme-stats.vercel.app/api?username=raghavramani&show_icons=true&theme=radical)
+![Raghav's GitHub stats](https://github-readme-stats.vercel.app/api?username=raghavramani3232&show_icons=true&theme=radical)
 
 ---
 
@@ -63,3 +63,4 @@
 
 ---
 
+**_Work in Progress. Always Learning. Always Building._**
