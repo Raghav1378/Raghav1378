@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Raghav Ramani!</h1>
 
 <p align="center">
-  Aspiring AI/ML Engineer | Data Analyst | Frontend Developer | Learning DSA in Java
+  Aspiring AI/ML Engineer | Data Analyst | Learning DSA in Java
 </p>
 
 ---
@@ -10,7 +10,7 @@
 
 - 🎓 B.Tech CSE Student  
 - 🤖 Passionate about Artificial Intelligence and Machine Learning  
-- 📊 Evolving as a Data Analyst and Frontend Developer  
+- 📊 Evolving as a Data Analyst  
 - 🛠️ Constant Learner | Growth Mindset | Discipline over Motivation  
 
 ---
@@ -22,7 +22,6 @@
   <img src="https://img.shields.io/badge/Machine%20Learning-Intermediate-orange?logo=scikitlearn&logoColor=white">
   <img src="https://img.shields.io/badge/Deep%20Learning-Beginner-9cf?logo=tensorflow&logoColor=white">
   <img src="https://img.shields.io/badge/Java-Beginner-red?logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Frontend-Intermediate-green?logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/SQL-Intermediate-lightgrey?logo=mysql&logoColor=white">
 </p>
 
@@ -34,7 +33,6 @@
 | **Data Visualization**     | Beginner          | Matplotlib, Seaborn             |
 | **Python Programming**     | Intermediate      | Python 3.x                      |
 | **Java (for DSA)**         | Beginner → Growing| Java SE, Java Collections       |
-| **Web Development**        | Intermediate      | HTML, CSS, JavaScript, React    |
 | **Version Control**        | Intermediate      | Git, GitHub                     |
 
 ---
@@ -51,7 +49,7 @@
 
 ## 📂 Projects  
 
-- **Medical Symptom Checker Chatbot** — AI-powered chatbot with frontend/backend  
+- **Medical Symptom Checker Chatbot** — AI-powered chatbot with ML backend  
 - **Sonar Rock vs Mine Classifier** — ML Model using Logistic Regression  
 - **Titanic Survival Prediction** — ML Classification Project  
 
