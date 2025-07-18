@@ -1,45 +1,45 @@
-<h1 align="center">Hey there 👋, I'm Raghav Ramani</h1>
+<h1 align="center">👋 Hi, I'm Raghav Ramani!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=Aspiring+AI+%2F+ML+Engineer;Data+Analyst+in+the+Making;DSA+%7C+ML+%7C+SQL+%7C+Java;Let's+Build+Something+Cool+Together!+💻" alt="Typing SVG" />
+  Aspiring AI/ML Engineer | Data Analyst | Learning DSA in Java
 </p>
 
 ---
 
-## 💫 About Me
+## 💫 About Me  
 
-- 🎓 **B.Tech CSE, JECRC College, Jaipur**
-- 💡 **Focused on:** Machine Learning, AI, Data Analytics, Java DSA
-- 🛠️ **Skills:** Python, Java, SQL, Flask, React, XGBoost, LightGBM  
-- 🎯 **Current Projects:**  
-  - AI Medical Chatbot  
-  - Surveillance System using YOLO  
-  - Kaggle Competitions  
-
-- 🎸 **Hobbies:** Singing, Playing Tabla  
-- 🕹️ **Also into:** Politics & Armed Forces topics
+- 🎓 B.Tech CSE Student at JECRC College, Jaipur  
+- 🤖 Focused on Artificial Intelligence, Machine Learning, and Data Analytics  
+- 💻 Building projects in ML, DSA, and Data Visualization  
+- 🛠️ Committed to Continuous Learning and Discipline  
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ Skills & Proficiency  
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- **Python** — Intermediate  
+- **Machine Learning** — Intermediate  
+- **Deep Learning** — Beginner  
+- **Data Analysis** — Intermediate  
+- **Data Visualization** — Beginner  
+- **Java (DSA)** — Growing Beginner  
+- **Version Control (Git)** — Intermediate  
+
+---
+
+## 📂 Projects  
+
+- **Medical Symptom Checker Chatbot** — AI-powered chatbot using ML backend  
+- **Sonar Rock vs Mine Classifier** — Logistic Regression project  
+- **Titanic Survival Prediction** — ML Classification Project  
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raghav!278&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Raghav!278&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghav!278&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Raghav!278&show_icons=true&theme=default&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Raghav!278&theme=default&hide_border=true" width="48%" />
 </p>
 
 ---
@@ -51,7 +51,7 @@
     <img src="https://img.shields.io/badge/Email-raghavramani2004%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.kaggle.com/raghavramani3232">
-    <img src="https://img.shields.io/badge/Kaggle-Raghav-blue?logo=kaggle&logoColor=white">
+    <img src="https://img.shields.io/badge/Kaggle-raghavramani3232-blue?logo=kaggle&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/raghav-ramani-3232">
     <img src="https://img.shields.io/badge/LinkedIn-Raghav%20Ramani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -61,5 +61,5 @@
 ---
 
 <p align="center">
-  <b>“Be so good they can’t ignore you.”</b>  
+  <em>“Consistency is what transforms average into excellence.”</em>
 </p>
