@@ -44,7 +44,7 @@
   <a href="https://www.kaggle.com/raghavramani3232">
     <img src="https://img.shields.io/badge/Kaggle-raghavramani3232-blue?logo=kaggle&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/raghav-ramani-3232">
+  <a href="https://www.linkedin.com/in/raghav-ramani-711b56256/">
     <img src="https://img.shields.io/badge/LinkedIn-Raghav%20Ramani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
