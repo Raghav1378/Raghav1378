@@ -50,14 +50,32 @@ Predicts survival chances based on passenger data.
 
 ## 📊 GitHub Stats  
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raghav-ramani&theme=algolia" height="165">
-  <img src="https://github-readme-stats.vercel.app/api?username=raghav-ramani&show_icons=true&theme=algolia" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghav-ramani&layout=compact&theme=algolia" height="165">
-</div>
+<p align="center">
+  <!-- Neon Glow Theme Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Raghav1378&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14" height="170"/>
+  
+  <!-- Fire Edition Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Raghav1378&theme=github-dark-blue&hide_border=true&fire=FF4500&currStreakLabel=FFD700" height="170"/>
+</p>
 
+<p align="center">
+  <!-- Compact Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghav1378&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=39FF14" height="150"/>
+</p>
+
+<p align="center">
+  <!-- AI-style Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raghav1378&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FFFFFF&area=true&hide_border=true"/>
+</p>
 ---
 
+## 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Raghav1378&theme=algolia&no-frame=true&row=1&column=6" />
+</p>
+
+---
 ## 📬 Connect With Me  
 
 <p align="center">
