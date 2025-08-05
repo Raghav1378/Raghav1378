@@ -1,56 +1,71 @@
-<h1 align="center">👋 Hi, I'm Raghav Ramani!</h1>
+# 👋 Hi, I'm Raghav Ramani!  
 
-<p align="center">
-  Aspiring AI/ML Engineer | Data Analyst | Learning DSA in Java
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7A3&center=true&vCenter=true&width=500&lines=Aspiring+AI%2FML+Engineer;Data+Analyst+%7C+ML+Project+Developer;Learning+DSA+in+Java;Turning+Data+into+Intelligence" alt="Typing SVG" />
+</div>  
 
 ---
 
 ## 💫 About Me  
 
-- 🎓 B.Tech CSE Student at JECRC College, Jaipur  
-- 🤖 Focused on Artificial Intelligence, Machine Learning, and Data Analytics  
-- 💻 Building projects in ML, DSA, and Data Visualization  
-- 🛠️ Committed to Continuous Learning and Discipline  
+- 🎓 **B.Tech CSE Student at JECRC College, Jaipur**  
+- 🤖 Focused on **Artificial Intelligence, Machine Learning, and Data Analytics**  
+- 💻 Building projects in **ML, DSA, and Data Visualization**  
+- 📈 Currently learning **Deep Learning, Computer Vision, and MLOps**  
+- 🛠️ Committed to **continuous learning and discipline**  
+- ✍ Motto: *"Consistency is what transforms average into excellence."*  
 
 ---
 
 ## 🛠️ Skills & Proficiency  
 
-- **Python** — Intermediate  
-- **Machine Learning** — Intermediate  
-- **Deep Learning** — Beginner  
-- **Data Analysis** — Intermediate  
-- **Data Visualization** — Beginner  
-- **Java (DSA)** — Growing Beginner  
-- **Version Control (Git)** — Intermediate  
+**Languages & Frameworks**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+
+**Machine Learning & AI**  
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
+
 
 ---
 
 ## 📂 Projects  
 
-- **Medical Symptom Checker Chatbot** — AI-powered chatbot using ML backend  
-- **Sonar Rock vs Mine Classifier** — Logistic Regression project  
-- **Titanic Survival Prediction** — ML Classification Project  
+### 🩺 **Medical Symptom Checker Chatbot**  
+AI-powered chatbot using ML backend for preliminary medical suggestions.  
+**Tech:** Python, Flask, NLP, scikit-learn, HTML/CSS/JS  
+
+### ⛏ **Sonar Rock vs Mine Classifier**  
+Classifies sonar signals to detect rocks or mines using Logistic Regression.  
+**Tech:** Python, Pandas, scikit-learn  
+
+### 🚢 **Titanic Survival Prediction**  
+Predicts survival chances based on passenger data.  
+**Tech:** Python, Pandas, scikit-learn, OneHotEncoding  
 
 ---
 
-## 📬 Connect with Me  
+## 📊 GitHub Stats  
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raghav-ramani&theme=algolia" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=raghav-ramani&show_icons=true&theme=algolia" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghav-ramani&layout=compact&theme=algolia" height="165">
+</div>
+
+---
+
+## 📬 Connect With Me  
 
 <p align="center">
-  <a href="mailto:raghavramani2004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-raghavramani2004%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.kaggle.com/raghavramani3232">
-    <img src="https://img.shields.io/badge/Kaggle-raghavramani3232-blue?logo=kaggle&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/raghav-ramani-711b56256/">
-    <img src="https://img.shields.io/badge/LinkedIn-Raghav%20Ramani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+  <a href="mailto:raghavramani2004@gmail.com"><img src="https://img.shields.io/badge/Email-raghavramani2004%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.kaggle.com/raghavramani3232"><img src="https://img.shields.io/badge/Kaggle-raghavramani3232-blue?logo=kaggle&logoColor=white&style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/raghav-ramani-711b56256/"><img src="https://img.shields.io/badge/LinkedIn-Raghav%20Ramani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
 
-<p align="center">
-  <em>“Consistency is what transforms average into excellence.”</em>
-</p>
+> 💡 *Always learning, always building. AI is not the future — it’s the present.*  
