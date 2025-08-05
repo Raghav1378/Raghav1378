@@ -34,17 +34,14 @@
 
 ## 📂 Projects  
 
-### 🩺 **Medical Symptom Checker Chatbot**  
-AI-powered chatbot using ML backend for preliminary medical suggestions.  
-**Tech:** Python, Flask, NLP, scikit-learn, HTML/CSS/JS  
+### 📈 **Life Expectancy Prediction**  
+Machine learning model predicting life expectancy based on socio-economic and health factors.  
+**Tech:** Python, Pandas, scikit-learn, Matplotlib, Seaborn  
 
-### ⛏ **Sonar Rock vs Mine Classifier**  
-Classifies sonar signals to detect rocks or mines using Logistic Regression.  
-**Tech:** Python, Pandas, scikit-learn  
+### 🛡 **Network Threat Detection**  
+AI-based system for detecting suspicious network activity using classification algorithms.  
+**Tech:** Python, Pandas, scikit-learn, RandomForest, Feature Engineering  
 
-### 🚢 **Titanic Survival Prediction**  
-Predicts survival chances based on passenger data.  
-**Tech:** Python, Pandas, scikit-learn, OneHotEncoding  
 
 ---
 
