@@ -72,13 +72,32 @@ An AI-powered system to identify and classify suspicious network activity in rea
 - 🤝 Contributing to a major **open-source AI project**.
 
 ---
-
 ## 📊 My GitHub Stats & Activity
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Raghav1378&show_icons=true&theme=dracula&hide_border=true&border_radius=15" height="170" alt="Raghav Ramani's GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Raghav1378&theme=dracula&hide_border=true&border_radius=15" height="170" alt="Raghav Ramani's GitHub Streak"/>
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghav1378&layout=compact&theme=dracula&hide_border=true&border_radius=15" height="150" alt="Top Languages"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Raghav1378&show_icons=true&theme=dracula&hide_border=true&border_radius=15" 
+    height="170" 
+    alt="Raghav Ramani's GitHub Stats" 
+  />
+
+  <a href="https://streak-stats.demolab.com/?user=Raghav1378" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com?user=Raghav1378&theme=dracula&hide_border=true&border_radius=15" 
+      height="170" 
+      alt="Raghav Ramani's GitHub Streak" 
+      style="margin-left: 10px;"
+    />
+  </a>
+
+  <br />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghav1378&layout=compact&theme=dracula&hide_border=true&border_radius=15" 
+    height="150" 
+    alt="Top Languages" 
+    style="margin-top: 15px;"
+  />
 </div>
+
 
