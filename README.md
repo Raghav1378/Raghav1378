@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00F7A3&center=true&vCenter=true&width=550&lines=Aspiring+AI+%26+ML+Engineer;Data+Analyst+%7C+Project+Developer;Turning+Data+into+Intelligence" alt="Typing Animation" />
 </a>
 
-### A passionate B.Tech CSE student from JECRC, Jaipur, diving deep into the world of Artificial Intelligence and Data Science.
+### A passionate B.Tech CSE student from JECRC, Jaipur, exploring the world of Artificial Intelligence and Data Science.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/raghav-ramani-711b56256/" target="_blank">
@@ -30,49 +30,53 @@
 
 ## 🚀 About Me
 
-I'm a final-year B.Tech Computer Science student with a strong passion for leveraging data to build intelligent solutions. My journey is fueled by a commitment to continuous learning and a disciplined approach to problem-solving.
+I'm a **B.Tech Computer Science student** with a passion for using data to build intelligent solutions. My journey is driven by curiosity, continuous learning, and a commitment to solving problems through AI/ML.  
 
-- 🎓 Studying **Computer Science & Engineering** at JECRC College, Jaipur.
-- 💡 Fascinated by the potential of **AI, Machine Learning, and Data Analytics**.
-- 🎯 Currently building projects in **ML, Data Structures & Algorithms, and Data Visualization**.
-- 🌱 Eagerly learning **Deep Learning, Computer Vision, and MLOps** to broaden my skill set.
-- ✍️ **Motto:** *"Consistency is what transforms average into excellence."*
-
----
-
-## 🛠️ My Tech Stack
-
-| Category          | Technologies                                                                                                                                                                                                                                                           |
-| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />                                                          |
-| **Data & ML** | <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> |
-| **Visualization** | <img src="https://img.shields.io/badge/Matplotlib-313131?style=for-the-badge&logo=matplotlib&logoColor=white" /> <img src="https://img.shields.io/badge/Seaborn-094C69?style=for-the-badge&logo=seaborn&logoColor=white" />                                                   |
-| **Tools & VCs** | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> |
+- 🎓 Pursuing **Computer Science & Engineering** at JECRC College, Jaipur.  
+- 💡 Interested in **AI, Machine Learning, Deep Learning, and Data Analytics**.  
+- 🎯 Currently working on projects in **ML, DSA (Java), and Data Visualization**.  
+- 🌱 Learning **NLP, GenAI, and MLOps** to expand my skill set.  
+- ✍️ **Motto:** *"Consistency is what transforms average into excellence."*  
 
 ---
 
-## 🏆 Featured Projects
+## 🛠️ My Tech Stack  
 
-### 📈 Life Expectancy Prediction
-A machine learning model to predict life expectancy based on socio-economic and health factors.
-- **Tech Stack:** `Python`, `Pandas`, `Scikit-learn`, `Matplotlib`, `Seaborn`.
-- **[Explore on GitHub &rarr;](https://github.com/Raghav1378/Life-Expectancy-Analysis)**
+| Category             | Technologies                                                                                                                                                                                                                                                           |
+| -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Languages**        | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> |
+| **Machine Learning** | <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white" /> <img src="https://img.shields.io/badge/LightGBM-00BFAE?style=for-the-badge&logo=lightgbm&logoColor=white" /> <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logo=catboost&logoColor=black" /> |
+| **Deep Learning**    | <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" /> |
+| **Data Analysis & Viz** | <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-313131?style=for-the-badge&logo=matplotlib&logoColor=white" /> <img src="https://img.shields.io/badge/Seaborn-094C69?style=for-the-badge&logo=seaborn&logoColor=white" /> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" /> |
+| **NLP**              | <img src="https://img.shields.io/badge/NLTK-154D80?style=for-the-badge&logo=nltk&logoColor=white" /> <img src="https://img.shields.io/badge/Transformers-FFDD00?style=for-the-badge&logo=huggingface&logoColor=black" /> |
+| **Deployment**       | <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /> |
+| **Tools**            | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> |
 
-### 🛡️ Network Threat Detection System
-An AI-powered system to identify and classify suspicious network activity in real-time.
-- **Tech Stack:** `Python`, `Pandas`, `Scikit-learn`, `Feature Engineering`.
-- **[Explore on GitHub &rarr;](https://github.com/Raghav1378/Network_Threat_Detector)**
+---
+
+## 🏆 Featured Projects  
+
+### 📊 Life Expectancy Prediction  
+ML model predicting life expectancy based on socio-economic & health indicators.  
+- **Tech Stack:** `Python`, `Pandas`, `Scikit-learn`, `Matplotlib`, `Seaborn`  
+- **[Explore on GitHub →](https://github.com/Raghav1378/Life-Expectancy-Analysis)**  
+
+### 🛡️ Network Threat Detection System  
+AI-powered tool to identify suspicious network activity in real-time.  
+- **Tech Stack:** `Python`, `Pandas`, `Scikit-learn`, `Feature Engineering`  
+- **[Explore on GitHub →](https://github.com/Raghav1378/Network_Threat_Detector)**  
 
 ---
 
-## 🎯 Current Focus & Goals for 2025
-- 🧠 Mastering frameworks like **TensorFlow** and **PyTorch** for Deep Learning.
-- 👁️ Building projects in **Computer Vision**, specifically in object detection.
-- ⚙️ Understanding the full ML lifecycle with **MLOps** best practices.
-- 🤝 Contributing to a major **open-source AI project**.
+## 🎯 Current Focus & 2025 Goals  
+- 🧠 Mastering **TensorFlow** & **PyTorch** for advanced Deep Learning  
+- 🔍 Building projects in **NLP & Generative AI**  
+- ⚙️ Learning **MLOps** for end-to-end ML pipelines  
+- 🤝 Contributing to **open-source AI projects**  
 
 ---
-## 📊 My GitHub Stats & Activity
+
+## 📊 My GitHub Stats  
 
 <div align="center">
   <img 
@@ -99,5 +103,3 @@ An AI-powered system to identify and classify suspicious network activity in rea
     style="margin-top: 15px;"
   />
 </div>
-
-
