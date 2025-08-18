@@ -56,13 +56,13 @@ I'm a **B.Tech Computer Science student** with a passion for using data to build
 
 ## 🏆 Featured Projects  
 
-### 📊 Life Expectancy Prediction  
-ML model predicting life expectancy based on socio-economic & health indicators.  
+### 📊Life Expectancy Analysis & Prediction 
+Built a regression-based model to estimate life expectancy by analyzing socio-economic and health-related datasets, applying feature engineering and visualization for insights.
 - **Tech Stack:** `Python`, `Pandas`, `Scikit-learn`, `Matplotlib`, `Seaborn`  
 - **[Explore on GitHub →](https://github.com/Raghav1378/Life-Expectancy-Analysis)**  
 
-### 🛡️ Network Threat Detection System  
-AI-powered tool to identify suspicious network activity in real-time.  
+### 🛡️ Network Intrusion Detection (ML Prototype)
+Developed a machine learning prototype for detecting unusual network patterns, focusing on classification techniques and feature engineering to improve security monitoring.
 - **Tech Stack:** `Python`, `Pandas`, `Scikit-learn`, `Feature Engineering`  
 - **[Explore on GitHub →](https://github.com/Raghav1378/Network_Threat_Detector)**  
 
