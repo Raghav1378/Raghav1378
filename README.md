@@ -9,7 +9,7 @@
 </p>
 
 <p>
-  <a href="https://www.linkedin.com/in/raghav-ramani-711b56256/">
+  <a href="https://www.linkedin.com/in/raghav-ramani-536000406/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.kaggle.com/raghavramani3232">
